@@ -1,0 +1,44 @@
+v0.3.1.1: Small Multiplayer Fix (10/18/21)
+
+Moved all of the current config options from ClientSide to ServerSide which should fix some desync issues with multiplayer
+
+////////////////////////////////////////////////
+
+v0.3.1: Small Patch and Bug fixes (10/8/21)
+
+Reworked the Iron Umbrella's hitbox
+Added some new visuals to Crumbling Boulder to make it easier to spot
+Added a new config option for boulder damage
+Changed how all boulders deal damage
+
+Added a new item, the Enchanted Geode
+-Throw it on the ground to start a boulder rain
+
+////////////////////////////////////////////////
+
+v0.3: General Overhaul (10/2/21)
+
+Code overhaul
+Reworked some of the challenge options
+Added new config options
+Added some new visuals
+
+Added a new item, the Iron Umbrella!
+-Deflects all incoming boulders, but breaks after being hit too many times
+
+////////////////////////////////////////////////
+
+v0.2: Birthday Update and new Boulder Types (9/6/21)
+
+Added new Challange Options
+Added three new boulder variants
+
+-Crumbling Boulder
+-Exploding Boulder
+-Frozen Boulder
+
+////////////////////////////////////////////////
+
+v0.1: Initial Release (9/3/21)
+
+The initial release of the mod
