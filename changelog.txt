@@ -1,3 +1,12 @@
+v1.0 - Overhaul Update
+
+Added many new types of boulders
+8 new events
+Rocky Wrath - a new difficulty mode
+Added much more configuration, allowing players to have more control over the mod's events and features
+
+////////////////////////////////////////////////
+
 v0.3.1.1: Small Multiplayer Fix (10/18/21)
 
 Moved all of the current config options from ClientSide to ServerSide which should fix some desync issues with multiplayer
